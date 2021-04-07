@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
   
-<!--
+
 
 <b>- Platform:</b>
 # Hi, I'm Samih 👋:
