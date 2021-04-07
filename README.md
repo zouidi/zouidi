@@ -3,19 +3,7 @@
   
 
 
-<b>- Platform:</b>
 # Hi, I'm Samih 👋:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-### Platform
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
- 
-
-
-  
 
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
@@ -93,18 +81,6 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/kaltura.png" height="30"></code>
 
 
-## Work Experience :computer_mouse: :desktop_computer: :keyboard:
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| SDE Intern | [@Bajaj Finserv Health](https://www.bajajfinservhealth.in/) | Sep 2020 - Present |
-| Assistant Software Engineer | [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Sep 2020 |
-| Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
-| Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
-| Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
-| J2EE Web Developer Intern | [@Pro-Ace (USA)](https://lightningspeedmatchmaker.com/#our-team) | Jan 2019 - Apr 2019 |
-| J2EE Web Developer Intern | [@Aim-India](http://www.aimindia.org.in) | Nov 2018 - Dev 2018 |
-| Software Developer Intern | [@Team-Cognito]() | Aug 2018 - Oct 2018 |
 
 <h3>Most Popular Open-Source Repositories🔺👑</h3>
 <table>
