@@ -12,16 +12,9 @@
 ### Platform
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007 --->
+ 
 
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >
-<p align="center">
-<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
-<a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/p.png"></a>&nbsp;&nbsp;
-</p>
+
   
 
 
